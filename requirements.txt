@@ -1,0 +1,4 @@
+aiohttp
+discord.py>=2.7,<3
+Pillow>=12,<13
+python-dotenv
